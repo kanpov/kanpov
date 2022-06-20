@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- You may know me from my [Fabric](https://fabricmc.net) mods and modding libraries, such as [ItemNBT](https://github.com/kanpov/itemnbt)
+- I'm currently learning 3D game development
+- I'm currently working on various 3D art projects using [Blender](https://blender.org)
+- https://kanpov.github.io is my **website** with some articles and a weekly newsletter
+- You can **[subscribe](https://kanpov.github.io/newsletter)** to a newsletter that I have to receive weekly detailed updates on my projects
+- If you have any questions or suggestions, **email me** at karpovanton729@gmail.com
+
 <!--
 **kanpov/kanpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
